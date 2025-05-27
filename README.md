@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Olá! Eu sou João Vitor Serrão
 
-<!--
-**jvitorserrao/jvitorserrao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Desenvolvedor Full Stack
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Stacks principais
+
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![Spring Boot](https://img.shields.io/badge/-SpringBoot-black?style=flat-square&logo=spring)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![Redux](https://img.shields.io/badge/-Redux-black?style=flat-square&logo=redux)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![PWA](https://img.shields.io/badge/-PWA-black?style=flat-square&logo=pwa)
+
+## 📫 Contato
+
+[![LinkedIn](www.linkedin.com/in/jvserrao)  
+

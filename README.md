@@ -1,10 +1,10 @@
-# 👋 Olá! Eu sou João Vitor Serrão
+# 👋 Hello! I'm João Vitor Serrão
 
-🎯 Desenvolvedor Full Stack
+🎯 Fullstack Developer
 
 ---
 
-## 🧰 Stacks e Principais Tecnologias
+## 🧰 Stacks and Main Technologies
 
 <!-- Linha 1 -->
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -22,7 +22,7 @@
 
 
 
-## 📫 Contato
+## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jvserrao)
 

@@ -18,5 +18,5 @@
 
 ## 📫 Contato
 
-[![LinkedIn](www.linkedin.com/in/jvserrao)  
+[![Linkedin](www.linkedin.com/in/jvserrao)  
 
